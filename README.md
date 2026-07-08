@@ -1,6 +1,6 @@
 <p align="center">
   <img src="git-background.jpg" alt="Muhammad Safiullah Banner" width="100%">
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm Muhammad Safiullah</h1>
 
